@@ -1,4 +1,4 @@
-title: Long Haul
+title: Noah Bragg
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
 url: http://brianmaierjr.github.com/long-haul
@@ -12,7 +12,7 @@ plugins: [jekyll-paginate]
 paginate: 5
 
 navigation:
-  - title: Home
+  - title: Posts
     url: /index.html
   - title: About
     url: /about
@@ -20,9 +20,7 @@ navigation:
     url: /contact
 
 social:
-  github: brianmaierjr
-  twitter: brianmaierjr
-  facebook: brianmaierjr
-  email: brimaidesigns@gmail.com
+  twitter: noahwbragg
+  email: noahbragg4@gmail.com
 
 google_analytics: "UA-58263416-1"
