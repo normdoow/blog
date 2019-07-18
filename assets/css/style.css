@@ -1145,7 +1145,14 @@ POST LIST STYLING
   .aboutImage {
     max-width: 48%;
     margin-left: 2%;
-    float: right; } }
+    float: right; }
+
+  .signupForm {
+    max-width: 80%;
+    margin: 0 auto; }
+
+  .primaryText {
+    color: #75aabc; } }
 @media only screen and (min-width: 1200px) {
   body {
     font-size: 137.5%; }
