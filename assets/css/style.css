@@ -1132,7 +1132,20 @@ POST LIST STYLING
     max-width: 48%;
     width: 48%;
     float: right;
-    margin-right: 0; } }
+    margin-right: 0; }
+
+  /***************
+  ABOUT PAGE STYLING
+  ***************/
+  .aboutContent {
+    max-width: 48%;
+    margin-right: 2%;
+    float: left; }
+
+  .aboutImage {
+    max-width: 48%;
+    margin-left: 2%;
+    float: right; } }
 @media only screen and (min-width: 1200px) {
   body {
     font-size: 137.5%; }
