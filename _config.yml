@@ -1,7 +1,7 @@
 title: Noah Bragg
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+description: I want to grow and learn in my skills of how to make successful businesses. Maybe you can learn something from joining me on my journey!
 
-url: http://brianmaierjr.github.com/long-haul
+url: https://noahbragg.com
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
