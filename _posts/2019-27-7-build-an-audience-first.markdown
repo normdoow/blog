@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Build an Audience First"
-date:   2019-7-22
+date:   2019-7-27
 description: When you want to start a business, there are so many things you could do. Where do you start? You could choose your name and create your logo. You could Incorporate your business. You could start making some UI mockups, or you could make a long business plan! My vote is that you should build an audience first.
 ---
 
