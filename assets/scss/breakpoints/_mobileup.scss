@@ -221,7 +221,7 @@ POST STYLING
 
 	blockquote {
 		clear: both;
-		margin: 2.5em 0;
+		margin: 2.5em 0em;
 		padding: 0;
 		line-height: 1.8;
 		position: relative;
@@ -248,6 +248,38 @@ POST STYLING
 			left: calc(50% - 75px);
 		}
 	}
+
+	@media (min-width: 43.75em) {
+		blockquote {
+			clear: both;
+			margin: 2.5em 7em;
+			padding: 0;
+			line-height: 1.8;
+			position: relative;
+	
+			&:before {
+				content: "";
+				position: absolute;
+				top: -1.25em;
+				background: $background-color;
+				display: block;
+				height: 2px;
+				width: 150px;
+				left: calc(50% - 75px);
+			}
+	
+			&:after {
+				content: "";
+				position: absolute;
+				bottom: -1.25em;
+				background: $background-color;
+				display: block;
+				height: 2px;
+				width: 150px;
+				left: calc(50% - 75px);
+			}
+		}
+	  }
 
 	.meta {
 		text-align: center;

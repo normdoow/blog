@@ -436,13 +436,15 @@ h4, .h4 {
   h4, .h4 {
     line-height: 1.22222222; } }
 blockquote {
-  font-size: 1.25em;
+  font-size: .95em;
+  font-style: italic;
   line-height: 1.25;
   padding: 0; }
 
 @media (min-width: 43.75em) {
   blockquote {
-    font-size: 1.5em;
+    font-size: 1em;
+    font-style: italic;
     line-height: 1.45833333; } }
 /***************
 CLEAR AFTER FLOATS
@@ -807,7 +809,7 @@ POST STYLING
   margin-bottom: 1rem; }
 .post blockquote {
   clear: both;
-  margin: 2.5em 0;
+  margin: 2.5em 0em;
   padding: 0;
   line-height: 1.8;
   position: relative; }
@@ -829,6 +831,31 @@ POST STYLING
     height: 2px;
     width: 150px;
     left: calc(50% - 75px); }
+@media (min-width: 43.75em) {
+  .post blockquote {
+    clear: both;
+    margin: 2.5em 7em;
+    padding: 0;
+    line-height: 1.8;
+    position: relative; }
+    .post blockquote:before {
+      content: "";
+      position: absolute;
+      top: -1.25em;
+      background: #75aabc;
+      display: block;
+      height: 2px;
+      width: 150px;
+      left: calc(50% - 75px); }
+    .post blockquote:after {
+      content: "";
+      position: absolute;
+      bottom: -1.25em;
+      background: #75aabc;
+      display: block;
+      height: 2px;
+      width: 150px;
+      left: calc(50% - 75px); } }
 .post .meta {
   text-align: center;
   color: gray;
