@@ -18,12 +18,12 @@ Have you ever spent lots of time on a project, launched it to the world and then
 
 You aren’t able to get enough people to even try your product that you worked so hard on! (Maybe other than your friends and grandma!). But in contrast, if you have an audience that is already interested in what you are doing, you will have more people who will give you feedback from the very beginning. This will allow you to know what your customers want as they help to point you in the right direction. It’s much easier to launch a product when you have someone to launch to!
 
-This is what Basecamp(37Signals)https://basecamp.com/ did with their blog Signal Vs. Noise(https://m.signalvnoise.com/). They built a list of 100,000 subscribers. I’m sure they didn’t have quite that big of a list before they started making products, but they did have a starting point. Kevin Hale at Wufoo also took this approach. He started a blog and built an audience before they had launched anything at all!
+This is what [Basecamp (37Signals)](https://basecamp.com) did with their blog [Signal Vs. Noise](https://signalvnoise.com). They built a list of 100,000 subscribers. I’m sure they didn’t have quite that big of a list before they started making products, but they did have a starting point. [Kevin Hale](https://twitter.com/ilikevests) at [Wufoo](https://www.wufoo.com) also took this approach. He started a blog and built an audience before they had launched anything at all!
 
 #### People can buy into more than just your product.
 Usually when you are buying a product you see it simply as a transaction. You don’t care who is behind the scenes. You want a product that fulfills your needs, most likely with the cheapest price tag.
 
-<center><img src="https://media.giphy.com/media/I7183SWqDxhkY/giphy.gif" height="300" /></center>
+<center><img src="https://media.giphy.com/media/3tJ1HjPqC5hXW/giphy.gif" height="300" /></center>
 
 But, if you know someone who is selling something, you’re much more likely to buy from them since you are buying it for more than just the product.
 
@@ -38,7 +38,7 @@ The catch to all of this is you need to build an audience that fits the kind of 
 
 So even if you don’t know what business idea you are going to do, you need to know what niche it’s going to be in. Usually it is pretty safe to start producing content about either something you are interested in or experienced with, because most likely your business idea will stem from one of those areas.
 
-Gabriel Weinberg, the founder of DuckDuckGo talks about a similar idea in his book called Traction. He calls it the 50 Percent Rule. He says, 
+[Gabriel Weinberg](https://twitter.com/yegg), the founder of [DuckDuckGo](https://duckduckgo.com) talks about a similar idea in his book called [Traction](https://www.amazon.com/Traction-Startup-Achieve-Explosive-Customer/dp/1591848369). He calls it the 50 Percent Rule. He says, 
 
 <blockquote>“Having a product or service that your early customers love, but having no clear way to get more traction is a major problem. To solve this problem, spend your time constructing your product or service and testing traction channels in parallel.”</blockquote>
 
