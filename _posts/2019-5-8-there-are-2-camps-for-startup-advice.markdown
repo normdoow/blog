@@ -32,7 +32,7 @@ However, once I had spent a significant time learning from others as well as bui
 
 The first list of advice tended to come from investors or people who worked at companies like [YCombinator](https://www.ycombinator.com), [Airbnb](https://www.airbnb.com), and [Slack](https://slack.com). The second list of advice mostly came from people who worked at companies like [Basecamp](https://basecamp.com), [MailChimp](https://mailchimp.com), or individual Indie Hackers.
 
-Once I started hanging out a lot in the [Indie hacker](https://www.indiehackers.com) community and reading a lot of the top hackers advice, I started to realize that there are two camps of startup advice!
+Once I started hanging out a lot in the [Indie Hacker](https://www.indiehackers.com) community and reading a lot of the top hackers advice, I started to realize that there are two camps of startup advice!
 
 Let’s call the advice from the first list, “camp one” and the advice from the second list, “camp two”.
 
@@ -48,7 +48,7 @@ Another way to think about this is through the lens of [Peter Thiel’s](https:/
 
 Peter also talks about One to N businesses. This is probably more where you want to be if you are an Indie hacker and following camp two advice. You are going to need an idea that doesn’t take a ton of research and new work, and one that others have done pieces of so you have something to work with and build on. You’re not going to want to invent an entire new market.
 
-I do think there could potentially be some business ideas that fit in both the full blown startup side (Camp 1) and bootstrapped side (Camp 2). There may just be less of those kinds of ideas.
+I do think there could potentially be some business ideas that fit in both the full blown startup side (camp one) and bootstrapped side (camp two). There may just be less of those kinds of ideas.
 
 <center><img src="/assets/img/camp1_camp2.png" alt="" /></center>
 
