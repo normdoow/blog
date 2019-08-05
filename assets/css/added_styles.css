@@ -1,0 +1,15 @@
+@media (min-width: 43.75em) {
+  .double-column {
+    display: table;
+    table-layout: fixed;
+    width: 130%;
+    margin-left: -13%;
+    margin-bottom: 5%; }
+
+  .first-column {
+    display: table-cell; }
+
+  .second-column {
+    display: table-cell; } }
+
+/*# sourceMappingURL=added_styles.css.map */

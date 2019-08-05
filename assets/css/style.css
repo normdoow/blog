@@ -380,6 +380,19 @@ CONSISTENT SETTINGS
 /***************
 TYPE SETTINGS
 ***************/
+@media (min-width: 43.75em) {
+  .double-column {
+    display: table;
+    table-layout: fixed;
+    width: 130%;
+    margin-left: -13%;
+    margin-bottom: 5%; }
+
+  .first-column {
+    display: table-cell; }
+
+  .second-column {
+    display: table-cell; } }
 /***************
 A MORE MODERN SCALE
 http://typecast.com/blog/a-more-modern-scale-for-web-typography
