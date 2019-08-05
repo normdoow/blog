@@ -24,7 +24,7 @@ However, once I had spent a significant time learning from others as well as bui
         <li>You don’t need a co-founder, you can do it all on your own</li>
         <li>Don’t work so much so you can sustain your creative ability</li>
         <li>Never skip sleep, that’s dumb</li>
-        <li>You should do you your startup on the side</li>
+        <li>You should do your startup on the side</li>
         <li>Take breaks and spend time with friends and family</li>
         <li>Angel Investors and VCs will take away your business!</li>
     </ul>
