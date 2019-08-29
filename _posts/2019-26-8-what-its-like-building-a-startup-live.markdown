@@ -95,9 +95,9 @@ All in all, it was really exciting to build something live in 24 hours! I'd love
 
 If you want to see the the livestream of me building [SnoozeYouLose](https://snoozeyoulose.io/) you can see it [here on YouTube](https://www.youtube.com/watch?v=9enyvhpUuvM&t=3916s)
 
-<!-- ### Support
+### Support
 
-Thank you for taking the time to read. If you liked it, sharing the thread on Twitter is really appreciated!
+Thank you for taking the time to read. If you liked it, sharing the [thread on Twitter](https://twitter.com/noahwbragg/status/1167079814513201158?s=20) is really appreciated!
 
-<Picture of tweet from twitter with link> -->
+<center><a href="https://twitter.com/noahwbragg/status/1167079814513201158?s=20"><img style="max-width: 60%;" src="/assets/img/twitter_24_hour_startup.png" alt="" /></a></center>
 
