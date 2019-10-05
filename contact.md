@@ -10,7 +10,7 @@ title: Contact Noah Bragg
     <p>If you have something you think I could be helpful with or just want to ask a question, send me a message!</p>
     <p>I want to help others in their journey where I can.</p>
   </div>
-  <form action="http://formspree.io/noahbragg4@gmail.com" method="POST">
+  <form action="https://formspree.io/xarnoqwm" method="POST">
     <label for="name">Name</label>
     <input type="text" id="name" name="name" class="full-width"><br>
     <label for="email">Email Address</label>
