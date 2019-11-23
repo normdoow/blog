@@ -31,4 +31,6 @@ I should have taken the hint that the particular coffee shop I was selling to di
 Get users early on that actually want the product that you’re building. You shouldn't be trying to force it down their throat. And, if it feels like you’re having to force it on everyone, then maybe you should go back to the drawing board.
 
 Support
-Hope that was helpful! If it was, sharing the thread on Twitter is really appreciated.
+Hope that was helpful! If it was, sharing the thread on Twitter is really appreciated!
+
+<center><a href="https://twitter.com/noahwbragg/status/1198336383875567616"><img style="max-width: 60%;" src="/assets/img/twitter_uncommited_users.png" alt="" /></a></center>
