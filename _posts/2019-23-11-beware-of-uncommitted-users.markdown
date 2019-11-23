@@ -5,7 +5,7 @@ date:   2019-11-23
 description: Beware of users that are not committed to what you are building. This happened a few times to me. When you have a new business idea, you are really motivated to sell your business and get your first customers. The big problem is that you might take customers at any cost.
 ---
 
-<p class="intro"><span class="dropcap">I</span>n my next few posts, I'm going to go through a few of the mistakes that I made while building [CoffeePass](https://coffeepass.io). Hopefully you can learn from me and steer clear of some of the traps that I fell into!</p>
+<p class="intro"><span class="dropcap">I</span>n my next few posts, I'm going to go through a few of the mistakes that I made while building CoffeePass. Hopefully you can learn from me and steer clear of some of the traps that I fell into!</p>
 
 
 <center><img src="https://media.giphy.com/media/cCbh9aPZGQebuOsxjN/giphy.gif" /></center>
