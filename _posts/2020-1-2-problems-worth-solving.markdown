@@ -68,3 +68,4 @@ Now this doesn't mean that I'm going to throw away all research or talking to pe
 #### Support
 
 I hope this was helpful in some way. If you liked it, sharing the thread on Twitter is really appreciated!
+<center><a href="https://twitter.com/noahwbragg/status/1223810851045617664"><img style="max-width: 60%;" src="/assets/img/problems_solving_tweet.png" alt="" /></a></center>
