@@ -8,7 +8,7 @@ title: About Noah
 	<div class="aboutContent">
 		<p class="intro">Hey there! I'm Noah.</p>
 		<p>
-			I am an entreprenuer and software developer. I built <a href="https://coffeepass.io">CoffeePass</a> and love creating products for others. I want to grow and learn in my skills of how to make successful businesses. Maybe you can learn something from joining me on my journey!
+			I am an entreprenuer and software developer building <a href="https://supportman.io">Supportman</a>. In the past I built <a href="https://coffeepass.io">CoffeePass</a>. I want to grow and learn in my skills of how to make successful businesses. Maybe you can learn something from joining me on my journey!
 		</p>
 		<!-- Begin Mailchimp Signup Form -->
 		<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
