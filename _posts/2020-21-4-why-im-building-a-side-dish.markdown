@@ -115,7 +115,7 @@ This is quite an advantage for a solo-entrepreneur. You don't have a lot of reso
 
 I really like the idea of starting with something small and then building from there. A side dish allows you to do just that. Quicker implementation allows you to get going and level up your skills along the way. Then you will have the ability to tackle bigger problems. Maybe you will eventually even be ready to tackle a main dish!
 
-### Distribution Channels Built For You
+#### Distribution Channels Built For You
 
 This is probably the biggest benefit of a side dish. Most platforms have an app directory or marketplace that allows you to sell directly to their users. Free traffic to your business is a huge perk! It also helps you get started faster because it can take awhile to find other channels that work for your business and build them up.
 
@@ -142,3 +142,8 @@ All this being said, there are some good reasons for indie hackers to build side
 If you are a first time founder, I think a side dish could make a lot of sense for you. The benefits that a platform gives are hard to replicate on your own. It takes many skills and lots of knowledge to build a business by yourself. A platform gets you that much closer.
 
 Of course, the decision is yours and you really need to think for yourself what's best for your circumstances and situation. Where do your goals align - with a main dish or a side dish?
+
+### Support
+
+I hope this was helpful in some way. If you liked it, sharing the thread on Twitter is really appreciated!
+<center><a href="https://twitter.com/noahwbragg/status/1252974142711672835"><img style="max-width: 60%;" src="/assets/img/side-dish-twitter.png" alt="" /></a></center>
