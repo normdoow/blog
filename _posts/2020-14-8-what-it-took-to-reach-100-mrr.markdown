@@ -107,3 +107,8 @@ But at the same time, I am excited that I have made it this far and feel like th
 Just getting one paying customer is a pretty big deal because it means you have created something valuable for someone else.
 
 Hopefully this gives you a glimpse of what it could take for you to reach this milestone as well!
+
+### Support
+
+I hope this was helpful in some way. If you liked it, sharing the thread on Twitter is really appreciated!
+<center><a href="https://twitter.com/noahwbragg/status/1294309338266259457"><img style="max-width: 60%;" src="/assets/img/twitter-100-mrr.png" alt="" /></a></center>
